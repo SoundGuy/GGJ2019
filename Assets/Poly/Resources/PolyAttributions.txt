@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: ggj brain hall
+Author: Aviv Hod
+URL: https://poly.google.com/view/9Whnu9jC8MM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: tunbele right
+Author: Aviv Hod
+URL: https://poly.google.com/view/4WBGp10inTk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: tunnel left
+Author: Aviv Hod
+URL: https://poly.google.com/view/1ez58a5r69d
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: tunnel t
+Author: Aviv Hod
+URL: https://poly.google.com/view/7Gp4mt5ulvp
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
