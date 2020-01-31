@@ -1,8 +1,38 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: bag
+Author: Aviv Hod
+URL: https://poly.google.com/view/dxoYkzSMjTN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: bag
+Author: Aviv Hod
+URL: https://poly.google.com/view/ek03UAsejIl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: bottle
+Author: Aviv Hod
+URL: https://poly.google.com/view/ecI4C4eQ1m_
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: clock
+Author: Aviv Hod
+URL: https://poly.google.com/view/andSEzdo60r
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Crystal Dagger
 Author: Bionic_rr
 URL: https://poly.google.com/view/aDfw-lu26yq
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: deadend
+Author: Aviv Hod
+URL: https://poly.google.com/view/9ghqdKrakXd
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -27,6 +57,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: ggj kitche#ggj
 Author: Aviv Hod
 URL: https://poly.google.com/view/7nrvPV9hwQO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: knife
+Author: Aviv Hod
+URL: https://poly.google.com/view/9NiJ11JWR0g
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
