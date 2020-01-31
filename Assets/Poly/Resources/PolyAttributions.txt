@@ -1,5 +1,11 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Crystal Dagger
+Author: Bionic_rr
+URL: https://poly.google.com/view/aDfw-lu26yq
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: ggj  toster6
 Author: Aviv Hod
 URL: https://poly.google.com/view/2poZ3XBqqA5
