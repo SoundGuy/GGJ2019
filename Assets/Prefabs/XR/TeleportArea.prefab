@@ -85,6 +85,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -156,13 +157,14 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2395267076148271737}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -275,6 +277,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -353,6 +356,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -462,6 +466,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -540,6 +545,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -712,6 +718,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -818,18 +825,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 1
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnHoverEnter:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnHoverExit:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnLastHoverExit:
     m_PersistentCalls:
       m_Calls:
@@ -844,28 +845,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 1
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnSelectEnter:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnSelectExit:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnActivate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.XR.Interaction.XRInteractableEvent, Unity.XR.Interaction,
-      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   m_CustomReticle: {fileID: 3819676577015031517, guid: c9ea54082e6151843acb776fb52ed6f7,
     type: 3}
   m_TeleportationProvider: {fileID: 0}

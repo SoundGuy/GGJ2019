@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1717954560309945982}
   - component: {fileID: 1717954560309945983}
   m_Layer: 0
-  m_Name: RightBaseController
+  m_Name: LeftBaseController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -49,7 +49,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
-  m_ControllerNode: 5
+  m_ControllerNode: 4
   m_SelectUsage: 3
   m_ActivateUsage: 2
   m_UIPressUsage: 2
@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 1717954560873690065}
   - component: {fileID: 1717954560873690064}
   m_Layer: 0
-  m_Name: LeftBaseController
+  m_Name: RightBaseController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -237,7 +237,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
-  m_ControllerNode: 4
+  m_ControllerNode: 5
   m_SelectUsage: 3
   m_ActivateUsage: 2
   m_UIPressUsage: 2
@@ -547,7 +547,7 @@ GameObject:
   - component: {fileID: 1717954560958943214}
   - component: {fileID: 1717954560958943213}
   m_Layer: 0
-  m_Name: RightTeleportController
+  m_Name: LeftTeleportController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -583,7 +583,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
-  m_ControllerNode: 5
+  m_ControllerNode: 4
   m_SelectUsage: 2
   m_ActivateUsage: 2
   m_UIPressUsage: 2
@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 1717954561233508942}
   - component: {fileID: 1717954561233508941}
   m_Layer: 0
-  m_Name: LeftTeleportController
+  m_Name: RightTeleportController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -953,7 +953,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputActions: 1
   m_PoseProvider: {fileID: 0}
-  m_ControllerNode: 4
+  m_ControllerNode: 5
   m_SelectUsage: 2
   m_ActivateUsage: 2
   m_UIPressUsage: 2
@@ -1351,10 +1351,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ActivationButtons: 0b00000006000000
   m_DeactivationButtons: 03000000
-  m_LeftBaseController: {fileID: 1717954560873690078}
-  m_LeftTeleportController: {fileID: 1717954561233508939}
-  m_RightBaseController: {fileID: 1717954560309945980}
-  m_RightTeleportController: {fileID: 1717954560958943209}
+  m_LeftBaseController: {fileID: 1717954560309945980}
+  m_LeftTeleportController: {fileID: 1717954560958943209}
+  m_RightBaseController: {fileID: 1717954560873690078}
+  m_RightTeleportController: {fileID: 1717954561233508939}
 --- !u!114 &6255545169491779
 MonoBehaviour:
   m_ObjectHideFlags: 0

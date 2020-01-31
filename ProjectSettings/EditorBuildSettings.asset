@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/XR.unity
-    guid: 84f2d136aebfd2543869514ec0c81eee
+    path: Assets/Scenes/brainMaze.unity
+    guid: d1c65cbd9ee995543b978d579df5bd12
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5d44d1d2792c9814b903e777927f3691,
       type: 2}
