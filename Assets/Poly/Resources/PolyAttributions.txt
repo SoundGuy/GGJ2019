@@ -6,6 +6,12 @@ URL: https://poly.google.com/view/9Whnu9jC8MM
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: school2
+Author: Aviv Hod
+URL: https://poly.google.com/view/6_hq8jFh4Sd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: tunbele right
 Author: Aviv Hod
 URL: https://poly.google.com/view/4WBGp10inTk
