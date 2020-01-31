@@ -26,11 +26,18 @@ public class TriggerItem : MonoBehaviour
         
     }
 
+    private void OnCollisionEnter(Collision other)
+    {
+        Debug.Log("Colliding  with " + other.gameObject.transform.parent.name);
+    }
+
     private void OnTriggerEnter(Collider other)
     {
-        if (other.name == nameToRespondTo)
-        {
-            Debug.Log("Responsing to " + other.gameObject.transform.parent.name);
+        string name = other.gameObject.transform.parent.name;
+        Debug.Log("Trigger  with " +name );
+        if (name == nameToRespondTo)
+        {        
+            Debug.Log("Responsing to " + name);
                 actions.Invoke();
         }
     }
