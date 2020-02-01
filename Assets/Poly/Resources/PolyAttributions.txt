@@ -12,6 +12,12 @@ URL: https://poly.google.com/view/ek03UAsejIl
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Blocks Lab Equipment
+Author: Don Carson
+URL: https://poly.google.com/view/atB26Z6BPd0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: bottle
 Author: Aviv Hod
 URL: https://poly.google.com/view/ecI4C4eQ1m_
@@ -39,6 +45,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: door
 Author: Aviv Hod
 URL: https://poly.google.com/view/eS34qaj98m6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Erlenmeyer flask
+Author: Poly by Google
+URL: https://poly.google.com/view/advGpqPqy0P
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -75,6 +87,18 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: lab
 Author: Aviv Hod
 URL: https://poly.google.com/view/efOTXd_D-Mm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lab Equipment
+Author: matt bower
+URL: https://poly.google.com/view/fSWYfMERNak
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Microwave
+Author: Poly by Google
+URL: https://poly.google.com/view/3MG53arExn3
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
