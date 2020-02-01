@@ -33,6 +33,7 @@ public class TriggerItem : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log(gameObject.name + " trigger with " +other.name );
         string name = other.gameObject.transform.parent.name;
         Debug.Log("Trigger  with " +name );
         if (name == nameToRespondTo)
